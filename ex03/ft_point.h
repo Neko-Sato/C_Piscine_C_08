@@ -6,14 +6,14 @@
 /*   By: hshimizu <hshimizu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/20 16:11:10 by hshimizu          #+#    #+#             */
-/*   Updated: 2023/03/20 16:13:09 by hshimizu         ###   ########.fr       */
+/*   Updated: 2023/03/22 11:54:32 by hshimizu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FT_POINT_H
 # define FT_POINT_H
 
-typedef struct
+typedef struct s_point
 {
 	int	x;
 	int	y;
